@@ -21045,5 +21045,19 @@
   "@mes_hl_cya@The Blue Moon pierces your defence. The cold is starting to get in...": "@mes_hl_cya@La Blue Moon atraviesa tu defensa. El frío empieza a calarte...",
   "@mes_hl_cya@The Blue Moon pierces your defence. Your joints are starting to lock up...": "@mes_hl_cya@La Blue Moon atraviesa tu defensa. Tus articulaciones empiezan a agarrotarse...",
   "@mes_hl_red@You suddenly feel drained. A blood jaguar is shaping from your blood!": "@mes_hl_red@De pronto te sientes agotado. ¡Un blood jaguar está tomando forma a partir de tu sangre!",
-  "@mes_hl_cya@Your joints lock up as you go to attack. The cold is too much to bear!": "@mes_hl_cya@Tus articulaciones se agarrotan al intentar atacar. ¡El frío es insoportable!"
+  "@mes_hl_cya@Your joints lock up as you go to attack. The cold is too much to bear!": "@mes_hl_cya@Tus articulaciones se agarrotan al intentar atacar. ¡El frío es insoportable!",
+  "Your divine potion effect is about to expire.": "El efecto de tu divine potion está a punto de terminar.",
+  "The effects of the divine potion have worn off.": "Los efectos de la divine potion se han disipado.",
+  "The resources from Neypotzli fizzle to dust as they are severed from its magic.": "Los recursos de Neypotzli se deshacen en polvo al quedar separados de su magia.",
+  "Eyatlalli is holding onto your Zombie axe. Speak to her to retrieve it.": "Eyatlalli tiene tu Zombie axe. Habla con ella para recuperarla.",
+  "You set up the first half of the trap.": "Preparas la primera mitad de la trampa.",
+  "You finish setting up the trap.": "Terminas de preparar la trampa.",
+  "Your hunting knowledge allows you to spook more lizards!": "¡Tus conocimientos de Hunter te permiten espantar a más lagartos!",
+  "Your hunting knowledge allows you to spook another lizard!": "¡Tus conocimientos de Hunter te permiten espantar a otro lagarto!",
+  "Your cooking knowledge allows you to get an additional cut of meat!": "¡Tus conocimientos de Cooking te permiten sacar un corte de carne adicional!",
+  "Eyatlalli returns your lost weapon to you.": "Eyatlalli te devuelve el arma que habías perdido.",
+  "Your Amulet of blood fury can perform [number] more hits.": "Tu Amulet of blood fury puede dar [number] golpes más.",
+  "Lighting the final brazier fills you with warmth, removing all of your cold buildup.": "Encender el último brasero te llena de calor y elimina todo el frío acumulado.",
+  "@mes_hl_red@Your divine potion effect is about to expire.": "@mes_hl_red@El efecto de tu divine potion está a punto de terminar.",
+  "@mes_hl_red@The effects of the divine potion have worn off.": "@mes_hl_red@Los efectos de la divine potion se han disipado."
 }
