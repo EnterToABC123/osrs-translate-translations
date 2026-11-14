@@ -1,43 +1,43 @@
 {
   "schemaVersion": 1,
-  "version": "2026.11.14.2-es",
+  "version": "2026.11.14.3-es",
   "languages": {
     "ESP": {
       "files": {
         "translations.json": {
-          "url": "https://raw.githubusercontent.com/EnterToABC123/osrs-translate-translations/3c181cbc4808f3368571b4d79144ece24720adcb/ESP/translations.json",
-          "sha256": "5d86136e185eae39310a5a90ac1acbf67672bc06ea258f1e8c6660e4b7e0a0c0"
+          "url": "https://raw.githubusercontent.com/EnterToABC123/osrs-translate-translations/6b2e85faa614bfea29dd089c7735b757570f1bd5/ESP/translations.json",
+          "sha256": "3e704ebeae5f97b39630b0bbed0363cadc003ccb836d2858c21cb62d62b8e788"
         },
         "translations_skills.json": {
-          "url": "https://raw.githubusercontent.com/EnterToABC123/osrs-translate-translations/3c181cbc4808f3368571b4d79144ece24720adcb/ESP/translations_skills.json",
+          "url": "https://raw.githubusercontent.com/EnterToABC123/osrs-translate-translations/6b2e85faa614bfea29dd089c7735b757570f1bd5/ESP/translations_skills.json",
           "sha256": "000f6ec3b9b5e01d11e2ebfcfe2b5f525503fda99837600fa6785c0f2b5411a1"
         },
         "translations_quests.json": {
-          "url": "https://raw.githubusercontent.com/EnterToABC123/osrs-translate-translations/3c181cbc4808f3368571b4d79144ece24720adcb/ESP/translations_quests.json",
-          "sha256": "160a535d31fe584fc2527115e788244c903d41e3c550a2ad3373ff7e90ca09b3"
+          "url": "https://raw.githubusercontent.com/EnterToABC123/osrs-translate-translations/6b2e85faa614bfea29dd089c7735b757570f1bd5/ESP/translations_quests.json",
+          "sha256": "59d7702f86445f9c6e957cb9ad20e4261ee7b11286ba7908866ef8065c55fe64"
         },
         "translations_items.json": {
-          "url": "https://raw.githubusercontent.com/EnterToABC123/osrs-translate-translations/3c181cbc4808f3368571b4d79144ece24720adcb/ESP/translations_items.json",
-          "sha256": "5f87372298cf6e18ab701e3502180c45971e6c4d2a4c2d0e592f4fa3660e1cc2"
+          "url": "https://raw.githubusercontent.com/EnterToABC123/osrs-translate-translations/6b2e85faa614bfea29dd089c7735b757570f1bd5/ESP/translations_items.json",
+          "sha256": "fdac45e2408a9e073273e6958dc00638279e7a6ffb00ce01415629aa509fb25b"
         },
         "translations_menu.json": {
-          "url": "https://raw.githubusercontent.com/EnterToABC123/osrs-translate-translations/3c181cbc4808f3368571b4d79144ece24720adcb/ESP/translations_menu.json",
+          "url": "https://raw.githubusercontent.com/EnterToABC123/osrs-translate-translations/6b2e85faa614bfea29dd089c7735b757570f1bd5/ESP/translations_menu.json",
           "sha256": "97173f71688270d016115bb3463fd1ebf2cdfac90c447def5f9e0356fb776371"
         },
         "translations_overhead.json": {
-          "url": "https://raw.githubusercontent.com/EnterToABC123/osrs-translate-translations/3c181cbc4808f3368571b4d79144ece24720adcb/ESP/translations_overhead.json",
-          "sha256": "4bd805e68c2710463d9ca66303d98268488c0cd3553fbb58fbbafc12fb69aa76"
+          "url": "https://raw.githubusercontent.com/EnterToABC123/osrs-translate-translations/6b2e85faa614bfea29dd089c7735b757570f1bd5/ESP/translations_overhead.json",
+          "sha256": "21f482e1aab33657a303b4fe5dd0cb4857714711af4eb774ae09306915d7eda5"
         },
         "translations_game_message.json": {
-          "url": "https://raw.githubusercontent.com/EnterToABC123/osrs-translate-translations/3c181cbc4808f3368571b4d79144ece24720adcb/ESP/translations_game_message.json",
-          "sha256": "50d7839b2043c8123d5fcb475b20c83e95f6be19c708092f7cfe94ad06ce1bde"
+          "url": "https://raw.githubusercontent.com/EnterToABC123/osrs-translate-translations/6b2e85faa614bfea29dd089c7735b757570f1bd5/ESP/translations_game_message.json",
+          "sha256": "924341bea980121a54ef893291f2e73e5433d14aff0c41f505f474872597a264"
         },
         "translations_welcome.json": {
-          "url": "https://raw.githubusercontent.com/EnterToABC123/osrs-translate-translations/3c181cbc4808f3368571b4d79144ece24720adcb/ESP/translations_welcome.json",
-          "sha256": "bc2ecf45035c8645696ce045da57d26ac840e641cd7e3e3689c91e2e81b94c9f"
+          "url": "https://raw.githubusercontent.com/EnterToABC123/osrs-translate-translations/6b2e85faa614bfea29dd089c7735b757570f1bd5/ESP/translations_welcome.json",
+          "sha256": "0facdac4108f5511b5c92f6c06d3fb60ef0d70141881d8f8d60b3bfbe4cde114"
         },
         "translations_settings.json": {
-          "url": "https://raw.githubusercontent.com/EnterToABC123/osrs-translate-translations/3c181cbc4808f3368571b4d79144ece24720adcb/ESP/translations_settings.json",
+          "url": "https://raw.githubusercontent.com/EnterToABC123/osrs-translate-translations/6b2e85faa614bfea29dd089c7735b757570f1bd5/ESP/translations_settings.json",
           "sha256": "74705cbcf1ec600a43432e133b97dfd89debcd545c65e16530e0c06553c252f7"
         }
       }
@@ -45,40 +45,40 @@
     "pt-BR": {
       "files": {
         "translations.json": {
-          "url": "https://raw.githubusercontent.com/EnterToABC123/osrs-translate-translations/3c181cbc4808f3368571b4d79144ece24720adcb/pt-BR/translations.json",
-          "sha256": "5cb0174ac5027718f7cb31c9edc13191c79608a9de8f91cf7cf183ea16d0eba3"
+          "url": "https://raw.githubusercontent.com/EnterToABC123/osrs-translate-translations/6b2e85faa614bfea29dd089c7735b757570f1bd5/pt-BR/translations.json",
+          "sha256": "189739381ee74879a1c78f33d81dab0da6120c4e2a4b7807db5357228e0f49a3"
         },
         "translations_skills.json": {
-          "url": "https://raw.githubusercontent.com/EnterToABC123/osrs-translate-translations/3c181cbc4808f3368571b4d79144ece24720adcb/pt-BR/translations_skills.json",
+          "url": "https://raw.githubusercontent.com/EnterToABC123/osrs-translate-translations/6b2e85faa614bfea29dd089c7735b757570f1bd5/pt-BR/translations_skills.json",
           "sha256": "6ba2e338fee5b2f8f9ed54101492dc65b845b2705e758522207098f26239b26d"
         },
         "translations_quests.json": {
-          "url": "https://raw.githubusercontent.com/EnterToABC123/osrs-translate-translations/3c181cbc4808f3368571b4d79144ece24720adcb/pt-BR/translations_quests.json",
-          "sha256": "4d06704d6459e9fb34a30880ff33394502517e813cd23dd3ff7756f53d068281"
+          "url": "https://raw.githubusercontent.com/EnterToABC123/osrs-translate-translations/6b2e85faa614bfea29dd089c7735b757570f1bd5/pt-BR/translations_quests.json",
+          "sha256": "13c945c69e58934589c38903cc8ef1325e27294d155fe1f2f0437e72953cf0bb"
         },
         "translations_items.json": {
-          "url": "https://raw.githubusercontent.com/EnterToABC123/osrs-translate-translations/3c181cbc4808f3368571b4d79144ece24720adcb/pt-BR/translations_items.json",
+          "url": "https://raw.githubusercontent.com/EnterToABC123/osrs-translate-translations/6b2e85faa614bfea29dd089c7735b757570f1bd5/pt-BR/translations_items.json",
           "sha256": "0454748a686f40c4e773a33ef6a3bc9ad2c25ed978a95853914c1e075f54b198"
         },
         "translations_menu.json": {
-          "url": "https://raw.githubusercontent.com/EnterToABC123/osrs-translate-translations/3c181cbc4808f3368571b4d79144ece24720adcb/pt-BR/translations_menu.json",
-          "sha256": "7cd62350a93010e7ce2089745b7868f907117a2b6fddd0f6a948e72d246bbe4d"
+          "url": "https://raw.githubusercontent.com/EnterToABC123/osrs-translate-translations/6b2e85faa614bfea29dd089c7735b757570f1bd5/pt-BR/translations_menu.json",
+          "sha256": "2ff297cdabab1003ef46fa334092bacafd9a32972119f264f0489ce2e2f0d63d"
         },
         "translations_overhead.json": {
-          "url": "https://raw.githubusercontent.com/EnterToABC123/osrs-translate-translations/3c181cbc4808f3368571b4d79144ece24720adcb/pt-BR/translations_overhead.json",
-          "sha256": "cc2902f48ad93dadef43beb90b0f461fd5ab4aa2e8cc18dbaf4de87df6492bd9"
+          "url": "https://raw.githubusercontent.com/EnterToABC123/osrs-translate-translations/6b2e85faa614bfea29dd089c7735b757570f1bd5/pt-BR/translations_overhead.json",
+          "sha256": "e7d86b38ce187db4f68bb81d63cbe9e70d39a9ac18f38a88e21085143ab081fd"
         },
         "translations_game_message.json": {
-          "url": "https://raw.githubusercontent.com/EnterToABC123/osrs-translate-translations/3c181cbc4808f3368571b4d79144ece24720adcb/pt-BR/translations_game_message.json",
-          "sha256": "c093b3e38a19255f29a9e5771ecae7b1803877a5b2c3ea4b675881a427601931"
+          "url": "https://raw.githubusercontent.com/EnterToABC123/osrs-translate-translations/6b2e85faa614bfea29dd089c7735b757570f1bd5/pt-BR/translations_game_message.json",
+          "sha256": "8292eb06ccf0fdc14870bc4ff3a62c8784426fba16aff4d3bdcea365a804ec86"
         },
         "translations_welcome.json": {
-          "url": "https://raw.githubusercontent.com/EnterToABC123/osrs-translate-translations/3c181cbc4808f3368571b4d79144ece24720adcb/pt-BR/translations_welcome.json",
+          "url": "https://raw.githubusercontent.com/EnterToABC123/osrs-translate-translations/6b2e85faa614bfea29dd089c7735b757570f1bd5/pt-BR/translations_welcome.json",
           "sha256": "f29d54e889931c13a7a391bc7676024ac2fdea32ec5cb47beb5be9cb09b1f678"
         },
         "translations_settings.json": {
-          "url": "https://raw.githubusercontent.com/EnterToABC123/osrs-translate-translations/3c181cbc4808f3368571b4d79144ece24720adcb/pt-BR/translations_settings.json",
-          "sha256": "4bcff7c0424b4e7ed732c1520c3f8f3f5b0d042258979af34b375350107284e7"
+          "url": "https://raw.githubusercontent.com/EnterToABC123/osrs-translate-translations/6b2e85faa614bfea29dd089c7735b757570f1bd5/pt-BR/translations_settings.json",
+          "sha256": "18119472875c3a0d9d65941001321fe80a15dd38ecd72e1b04b4f13e62cff306"
         }
       }
     }
