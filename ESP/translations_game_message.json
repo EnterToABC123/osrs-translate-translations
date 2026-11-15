@@ -21059,5 +21059,20 @@
   "Your Amulet of blood fury can perform [number] more hits.": "Tu Amulet of blood fury puede dar [number] golpes más.",
   "Lighting the final brazier fills you with warmth, removing all of your cold buildup.": "Encender el último brasero te llena de calor y elimina todo el frío acumulado.",
   "@mes_hl_red@Your divine potion effect is about to expire.": "@mes_hl_red@El efecto de tu divine potion está a punto de terminar.",
-  "@mes_hl_red@The effects of the divine potion have worn off.": "@mes_hl_red@Los efectos de la divine potion se han disipado."
+  "@mes_hl_red@The effects of the divine potion have worn off.": "@mes_hl_red@Los efectos de la divine potion se han disipado.",
+  "You need a rope to set this trap.": "Necesitas una cuerda para colocar esta trampa.",
+  "Oh dear, you are dead!": "¡Vaya, has muerto!",
+  "Some of your dropped items are being held in a gravestone, near where you died.": "Algunos de los objetos que soltaste se guardan en una lápida, cerca de donde moriste.",
+  "Payment has been taken from your bank: [number] x Coins": "Se ha cobrado el pago de tu banco: [number] x Coins",
+  "You successfully retrieved everything from your gravestone.": "Has recuperado todo de tu lápida.",
+  "You can't trade that item on the Grand Exchange.": "No puedes comerciar ese objeto en el Grand Exchange.",
+  "Your inventory is too full to take anything.": "Tu inventario está demasiado lleno para coger nada.",
+  "You have nothing to deposit.": "No tienes nada que depositar.",
+  "Did you know? Thanks to the House Viewer in the House options, you can move and rotate rooms in your house without changing their content.": "¿Sabías que, gracias al House Viewer de las opciones de la casa, puedes mover y girar las habitaciones de tu casa sin cambiar su contenido?",
+  "You aren't carrying any containers that can be emptied.": "No llevas ningún recipiente que se pueda vaciar.",
+  "[number]|Check the skill guide to see what your new [skill] level unlocks!": "[number]|¡Consulta la guía de habilidades para ver qué desbloquea tu nuevo nivel de [skill]!",
+  "Check the skill guide to see what your new [skill] level unlocks!": "¡Consulta la guía de habilidades para ver qué desbloquea tu nuevo nivel de [skill]!",
+  "You are eligible to drink from the Tears of Guthix.": "Ya puedes beber de las Tears of Guthix.",
+  "You don't have enough power left.": "No te queda suficiente energía.",
+  "This jaguar doesn't possess any of your blood!": "¡Este jaguar no tiene nada de tu sangre!"
 }
