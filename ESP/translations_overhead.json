@@ -2861,5 +2861,7 @@
   "shadow=yes|colour=yellow|Gah!": "shadow=yes|colour=yellow|¡Gah!",
   "shadow=yes|colour=yellow|How am I supposed to get past this?": "shadow=yes|colour=yellow|¿Cómo se supone que voy a pasar esto?",
   "!": "!",
-  "Hey! Come give me a hand over here.": "¡Eh! Ven a echarme una mano aquí."
+  "Hey! Come give me a hand over here.": "¡Eh! Ven a echarme una mano aquí.",
+  "Let me escort you to Lumbridge, [player].": "Deja que te acompañe a Lumbridge, [player].",
+  "Beware mortals, [player] now travels with me.": "Cuidado, mortales: [player] viaja ahora conmigo."
 }
