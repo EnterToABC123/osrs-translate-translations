@@ -1535,5 +1535,13 @@
   "Select Chat": "Elegir Chat",
   "Select Audio": "Elegir Sonido",
   "Perform Relic unlock": "Desbloquear reliquia",
-  "Board friend's boat": "Subir al barco de un amigo"
+  "Board friend's boat": "Subir al barco de un amigo",
+  "Lunge": "Embestir",
+  "Add/Remove House": "Añadir/Quitar casa",
+  "Draw-Below": "Dibujar-debajo",
+  "Mark style": "Estilo de marca",
+  "Clickbox": "Zona de clic",
+  "Mark fill color": "Color de relleno de la marca",
+  "Mark border color": "Color del borde de la marca",
+  "Unmark object": "Desmarcar objeto"
 }
